@@ -22,7 +22,7 @@ int main(){
                 for(j = 0; j < 30; j++)
                     board.at<uchar>(x + i, y + j) = 255;
 
-
+// nbjhhkhjkjkj
 
     namedWindow("Chess Board", WINDOW_AUTOSIZE);
     imshow("Chess Board", board);
